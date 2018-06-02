@@ -1,3 +1,5 @@
+import ProjectDetails
+import SCMDetails
 
 def RootFolder = 'ACRM.Client-FromDSL'
 def MSBuildProfile='MSbuild_Default'
